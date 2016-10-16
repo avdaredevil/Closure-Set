@@ -9,7 +9,7 @@
   - This allows script to be allowed to run in your PowerShell console
 - Cd to the directory where this script is downloaded
 - Copy the rule to your clipboard (the script will read the rules from there!)
-- ./Closure-Set.ps1
+- run `./Closure-Set.ps1`
 
 ## Examples
 >
