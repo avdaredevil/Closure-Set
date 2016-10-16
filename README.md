@@ -3,12 +3,13 @@
 
 ## Usage
 >
-- Open Powershell [With Admin, if you don't have ExecutionPolicy enabled]
-- If your execution policy is not correct, or you have no idea what I'm saying:
+- Open Powershell [*With Admin, if you don't have ExecutionPolicy enabled*]
+- If your *execution policy* is not correct, or you have no idea what I'm saying:
   - In your shell enter `Set-ExecutionPolicy RemoteSigned`
   - This allows script to be allowed to run in your PowerShell console
 - Cd to the directory where this script is downloaded
 - Copy the rule to your clipboard (the script will read the rules from there!)
+  - If this isn't done, the script will also ask you for the ruleset on execution
 - run `./Closure-Set.ps1`
 
 ## Examples
