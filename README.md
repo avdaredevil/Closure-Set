@@ -5,7 +5,7 @@
 >
 - Open Powershell [*With Admin, if you don't have ExecutionPolicy enabled*]
 - If your *execution policy* is not correct, or you have no idea what I'm saying:
-  - In your shell enter `Set-ExecutionPolicy RemoteSigned`
+  - In your shell enter `Set-ExecutionPolicy Bypass`
   - This allows script to be allowed to run in your PowerShell console
 - Cd to the directory where this script is downloaded
 - Copy the rule to your clipboard (the script will read the rules from there!)
